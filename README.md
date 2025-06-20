@@ -6,6 +6,6 @@
 
 
 
-**Personal Website URL:** https://tonc.github.io/finall_lab
+**Personal Website URL:** http://t.rakin.cn:8082
 
-**Todo Application URL:** https://tonc.github.io/finall_lab/todo-app.html
+**Todo Application URL:** http://t.rakin.cn:8083
