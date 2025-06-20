@@ -4,6 +4,6 @@
 
 **Student ID:** 20232084
 
-**Personal Website URL:** https://tonc.github.io/finall_lab/
+**Personal Website URL:** https://tonc.github.io/finall_lab
 
 **Todo Application URL:** https://tonc.github.io/finall_lab/todo-app.html
